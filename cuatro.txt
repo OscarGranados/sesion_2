@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificacio  realizada desde VSC
+=======
+Se agrega linea 1 al archivo cuatro
+>>>>>>> 66ab8b6a44b2c20c91dbf97b1c18d4e991aae6dc
